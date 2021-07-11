@@ -3283,7 +3283,7 @@ input, select, textarea {
 			-ms-transition: opacity 0.35s ease, -ms-transform 0.35s ease;
 			transition: opacity 0.35s ease, transform 0.35s ease;
 			-webkit-overflow-scrolling: touch;
-			background: #4c5c96;
+			/* background: #4c5c96; */
 			border-radius: 5px;
 			display: block;
 			max-width: 100%;
@@ -3624,7 +3624,7 @@ input, select, textarea {
 	}
 
 	.wrapper {
-		background-color: #2e3141;
+		background-color: #333545a1;
 		margin: 6.5em 0;
 		position: relative;
 	}
@@ -3766,7 +3766,7 @@ input, select, textarea {
 			}
 
 		.wrapper.spotlight {
-			background-color: #4c5c96;
+			/* background-color: #4c5c96; */
 		}
 
 			.wrapper.spotlight:before, .wrapper.spotlight:after {
