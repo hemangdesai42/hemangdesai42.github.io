@@ -104,14 +104,11 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #2e3141;
+		/* background-color: #2e3141; */
 		background-image: url("../../images/nyc.jpg");
-		background-size: auto,
- cover;
-		background-attachment: fixed,
- fixed;
-		background-position: center,
- center;
+		background-size: auto, cover;
+		background-attachment: fixed, fixed;
+		background-position: center, center;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
