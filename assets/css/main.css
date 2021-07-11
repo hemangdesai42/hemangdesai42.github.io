@@ -7,8 +7,9 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 .profile__image {
-	width: 50%;
-	height: 50%;
+	width: 30%;
+    height: 30%;
+    border-radius: 5px;
 }
 
 html, body, div, span, applet, object,
@@ -104,7 +105,7 @@ input, select, textarea {
 
 	body {
 		background-color: #2e3141;
-		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+		background-image: url("../../images/nyc.jpg");
 		background-size: auto,
  cover;
 		background-attachment: fixed,
