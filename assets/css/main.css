@@ -3613,7 +3613,7 @@ input, select, textarea {
 			text-transform: uppercase;
 		}
 
-		#wrapper > img {
+		#wrapper > #one > ul > img {
 			width: 10%;
 			
 		}
