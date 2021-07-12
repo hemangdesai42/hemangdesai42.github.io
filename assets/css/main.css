@@ -3613,14 +3613,15 @@ input, select, textarea {
 			text-transform: uppercase;
 		}
 
-		#tech__logo, #skills__logo {
+		#tech__logo {
 			width: 50%;
 			margin-left: 4.5rem;
 			margin-bottom: 3.5%;
 		}
 
-		#tech {
-			margin-bottom: 2px;
+		.section-head {
+			font-size: 2em;
+			margin-left: 50%;
 		}
 
 	@media screen and (max-width: 1280px) {
