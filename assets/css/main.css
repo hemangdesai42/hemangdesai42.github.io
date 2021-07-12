@@ -3615,7 +3615,12 @@ input, select, textarea {
 
 		#tech__logo, #skills__logo {
 			width: 50%;
-			
+			margin-left: 4.5rem;
+			margin-bottom: 3.5%;
+		}
+
+		#tech {
+			margin-bottom: 2px;
 		}
 
 	@media screen and (max-width: 1280px) {
