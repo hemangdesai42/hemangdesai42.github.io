@@ -3613,7 +3613,7 @@ input, select, textarea {
 			text-transform: uppercase;
 		}
 
-		#wrapper > #one > ul > .tech {
+		#tech__logo {
 			width: 10%;
 			
 		}
