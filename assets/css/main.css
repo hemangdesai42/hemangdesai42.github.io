@@ -1208,6 +1208,10 @@ input, select, textarea {
 		z-index: 3;
 	}
 
+	#wrapper > .my__logo {
+		width: 50%;
+	}
+
 		#wrapper:before {
 			content: '';
 			display: block;
